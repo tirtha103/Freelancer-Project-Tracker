@@ -32,4 +32,3 @@ Design a real-world database for freelancers to manage their clients, projects, 
 
 ```bash
 psql -U postgres
-##USE THE PASSWORD Tirtha24@
